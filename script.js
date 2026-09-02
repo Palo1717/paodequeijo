@@ -5,8 +5,8 @@ let idade = 16;
 let curso = "Informática";
 
 document.getElementById("nome").textContent = nome;
-document.getElementById("idade").textContent = nome;
-document.getElementById("curso").textContent = nome;
+document.getElementById("idade").textContent = idade;
+document.getElementById("curso").textContent = curso;
 
 console.log(nome);
 console.log(idade);
